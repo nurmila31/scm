@@ -60,5 +60,6 @@
                     <li><a class="logout" onclick="javascript: return confirm('Ingin Logout ?');" href="logout.php">Logout</a></li>
             	</ul>
             </div>
+            <br>
         </header>
       <!--header end-->
